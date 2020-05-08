@@ -113,7 +113,7 @@ const tasks = [
   };
   let lastSelectedTheme = 'default';
 
-  // Elemnts UI
+  // Elemnts UI //
   const listContainer = document.querySelector(
     '.tasks-list-section .list-group',
   );
